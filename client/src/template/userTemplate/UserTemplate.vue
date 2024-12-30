@@ -10,7 +10,7 @@
 </template>
 
 <script setup lang="ts">
-    
+    import HeaderClient from './HeaderClient.vue';
 </script>
 
 <style lang="scss" scoped>
